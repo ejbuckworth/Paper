@@ -1,1 +1,2 @@
-[1] bloggs et al 2001
+Bloggs et al 2001
+Jones et al 1998

@@ -5,4 +5,6 @@ Sleeping Patterns of an Elderly Dog.
 Emma Buckworth
 
 #Introduction
-We present timings of Pepper's wake up times throughout the day the 18/11/25. We timed the wake ups using a standard stopwatch [1]
+We present timings of Pepper's wake up times throughout the day the 18/11/25. 
+We timed the wake ups using a standard stopwatch (Bloggs et al.)
+Previous studies (Jones et al.) used a digital watch but we didn't have one.
