@@ -1,8 +1,9 @@
 # Title
-Sleeping Patterns of an Elderly Dog.
+Simulations of Sleeping Patterns of an Elderly Dog.
 
 #Author 
 Emma Buckworth
+John Smith
 
 #Introduction
 We present timings of Pepper's wake up times throughout the day the 18/11/25. 
