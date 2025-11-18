@@ -13,3 +13,7 @@ This work is undertaken so that we no how frequently old dogs wake up over 24 ho
 
 #Simulations
 We simulate the body clock of the dog using... 
+
+#Methodology.
+We followed the established methodology of (Xu et al.)
+
